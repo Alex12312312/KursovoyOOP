@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8f60bbe-0f92-465e-9b11-e55165d00ea3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mapping/TransportMapper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mapping/TransportMapper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Db/DbTransport.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Db/DbTransport.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Service/Transport.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Service/Transport.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/Interfaces/ITransportRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/Interfaces/ITransportRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/TransportRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/TransportRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Interfaces/ITransportService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Interfaces/ITransportService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/TransportService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/TransportService.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hPX4v1OGhSbZDyubNsgmEcTt3g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Kursach__Novoseltsev",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f60bbe-0f92-465e-9b11-e55165d00ea3" name="Changes" comment="" />
+      <created>1717496500352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717496500352</updated>
+      <workItem from="1717496503413" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
