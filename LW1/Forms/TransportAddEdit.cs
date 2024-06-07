@@ -184,45 +184,51 @@ namespace LW1.Forms
             Close();
         }
 
-        private void ModelField_Click(object sender, EventArgs e)
-        {
-            ModelField.BackColor = SystemColors.Control;
-        }
-
-        private void SurnameField_Click(object sender, EventArgs e)
-        {
-            SurnameField.BackColor = SystemColors.Control;
-        }
-
-        private void NameField_Click(object sender, EventArgs e)
-        {
-            NameField.BackColor = SystemColors.Control;
-        }
-
         private void RouteField_Click(object sender, EventArgs e)
         {
             RouteField.BackColor = SystemColors.Control;
         }
-
+        /// <summary>
+        /// Смена цвета кнопки при наведении на неё
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Btn_MouseEnter(object sender, EventArgs e)
         {
             Button btn = sender as Button;
             btn.BackColor = Color.Yellow;
             btn.ForeColor = Color.Black;
         }
-
+        /// <summary>
+        /// Изменение цвета кнопки при выходе курсора за её пределы
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Btn_MouseLeave(object sender, EventArgs e)
         {
             Button btn = sender as Button;
             btn.BackColor = Color.Transparent;
             btn.ForeColor = Color.Yellow;
         }
-
+        /// <summary>
+        /// Смена цветов элементов при загрузке окна
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void TransportAddEdit_Load(object sender, EventArgs e)
         {
             panel1.BackColor = Color.FromArgb(128, 0, 0, 0);
             DriverData.BackColor = Color.FromArgb(128, 0, 0, 0);
             TransportData.BackColor = Color.FromArgb(128, 0, 0, 0);
+        }
+        /// <summary>
+        /// Установка цвета по умолчанию при клике на поле ввода
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void AnyField_Click(object sender, EventArgs e)
+        {
+            NameField.BackColor = SystemColors.Control;
         }
     }
 }

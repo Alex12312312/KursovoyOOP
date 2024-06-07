@@ -166,7 +166,7 @@
             ModelField.Name = "ModelField";
             ModelField.Size = new Size(207, 23);
             ModelField.TabIndex = 1;
-            ModelField.Click += ModelField_Click;
+            ModelField.Click += AnyField_Click;
             // 
             // RouteField
             // 
@@ -174,7 +174,7 @@
             RouteField.Name = "RouteField";
             RouteField.Size = new Size(208, 23);
             RouteField.TabIndex = 4;
-            RouteField.Click += RouteField_Click;
+            RouteField.Click += AnyField_Click;
             // 
             // label1
             // 
@@ -246,6 +246,7 @@
             PatronymicField.Name = "PatronymicField";
             PatronymicField.Size = new Size(207, 23);
             PatronymicField.TabIndex = 3;
+            PatronymicField.Click += AnyField_Click;
             // 
             // NameField
             // 
@@ -253,7 +254,7 @@
             NameField.Name = "NameField";
             NameField.Size = new Size(207, 23);
             NameField.TabIndex = 2;
-            NameField.Click += NameField_Click;
+            NameField.Click += AnyField_Click;
             // 
             // SurnameField
             // 
@@ -261,7 +262,7 @@
             SurnameField.Name = "SurnameField";
             SurnameField.Size = new Size(207, 23);
             SurnameField.TabIndex = 1;
-            SurnameField.Click += SurnameField_Click;
+            SurnameField.Click += AnyField_Click;
             // 
             // label2
             // 
